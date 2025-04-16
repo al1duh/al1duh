@@ -1,9 +1,6 @@
-## Hwhat ...
+## what ...(README)
 
 <!--
-**al1duh/al1duh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 -🐈‍⬛ I’m currently working on ... trying to graduate
 -🌒 I’m currently learning ... this
